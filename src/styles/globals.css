@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  outline: none;
+}
+
+body {
+  background: #F6F6F6;
+}
+
+.b12{
+  background:url('../../public/photo/bg.png');
+  background-size:  cover;
+
+}
+
+.str{
+  max-width: 1520px;
+}
+
